@@ -26,15 +26,6 @@ public class Main {
         number = input.nextInt();
         temp = number;
         System.out.println(desen(number,temp));
-        /*
-        if(number == 0 || number <0) {
-            number = number +5;
-            System.out.println(number);
-            desen(number,i);
-        }else if(i>0){
-            number = number + 5;
-            System.out.println(number);
-            desen(number,i-1);
-        }else{*/
+        
     }
 }
